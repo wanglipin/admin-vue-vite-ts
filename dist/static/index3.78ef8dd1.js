@@ -1,0 +1,1 @@
+import{a0 as a,a1 as t,o as e,c as s,w as o}from"./vendor.24be2225.js";const d={},c=o();a("data-v-a0badf2e");const i={style:{width:"100%"},src:"/admin-vue-vite-ts/static/zichantongjibaobiao.562ec0e7.png"};t();const n=c(((a,t)=>(e(),s("img",i))));d.render=n,d.__scopeId="data-v-a0badf2e";export default d;
